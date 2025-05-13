@@ -1,4 +1,4 @@
-// pages/api/roblox.js
+// pages/api/roblox.js.
 export default async function handler(req, res) {
   const { username } = req.query;
 
