@@ -1,0 +1,1 @@
+# Kullan-c-Sorgu-
